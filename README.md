@@ -44,3 +44,8 @@ pip install pandas matplotlib seaborn
 #### Dataset
 
 The analysis uses a dataset named `academic Stress level - maintainance 1.csv`. This dataset is essential for the notebook to run successfully.
+
+email - rahuulpatel19@gmail.com
+
+linkdin - linkedin.com/in/rahul-kumar-patel-02652a322
+
